@@ -1,0 +1,334 @@
+Loading required package: gdsfmt
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:data.table':
+
+    between, first, last
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Rows: 248 Columns: 10
+-- Column specification --------------------------------------------------------
+Delimiter: ","
+chr (7): gene_id, gene_name, gene_type, annotation, rsID, SNV, trait
+dbl (3): chr, start, end
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Joining, by = "gene_id"
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+
+warning: eig_sym(): given matrix is not symmetric
+There were 50 or more warnings (use warnings() to see the first 50)

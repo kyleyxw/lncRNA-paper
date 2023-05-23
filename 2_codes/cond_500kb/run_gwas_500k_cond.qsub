@@ -1,0 +1,11 @@
+#!/bin/bash -l
+
+#$ -P pelosolab
+
+#$ -l h_rt=2:00:00
+#$ -N gwas_500k_cond
+#$ -m bea
+
+
+module load R/4.1.2
+Rscript /restricted/projectnb/pelosolab/yuxuan/lncRNA/2_codes/cond_500kb/lncrna_gwas_500k_cond.R
